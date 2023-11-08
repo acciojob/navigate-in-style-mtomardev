@@ -1,11 +1,12 @@
- /* your css code here. If applicable
+ 
 ul{
     background-color: #D3D3D3;
 }
-li{
+ 
+ .container{
     list-style: none;
     padding: 10px;
     display: inline;
     margin-right: 1rem;
     
-} */
+} 
